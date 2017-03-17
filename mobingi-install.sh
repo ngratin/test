@@ -1,6 +1,6 @@
 #!/bin/bash
 echo "-----"
-echo "test"
+echo "test2"
 echo "-----"
 touch /tmp/hoge
 touch /tesutofile
